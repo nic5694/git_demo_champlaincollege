@@ -1,7 +1,7 @@
 This is an example file to demonstrate how to contribute to a repository with git using the CLI.
 
 
-This line need to be modified by one person!
+This Line has been modified to test git status and hopefully it should give me a red line
 This line needs to be left alone!
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
